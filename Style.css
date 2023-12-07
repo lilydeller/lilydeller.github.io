@@ -1,6 +1,6 @@
 body {
-background: pink;
-font-family: Arial;
+background: #c2a6e3;
+font-family: Times New Roman;
 }
 h1 {
 color: black;
@@ -10,15 +10,15 @@ text-align: center;
 display: flex;
 padding: 10px;
 margin: 10px;
-background: green;
+background: #e3d5f2;
 }
 .assign img {
 width: 200px;
 padding: 10px;
 }
 body {
-background: pink;
-font-family: Arial;
+background: #c2a6e3;
+font-family: Times New Roman;
 }
 h1 {
 color: black;
@@ -28,7 +28,7 @@ text-align: center;
 display: flex;
 padding: 10px;
 margin: 10px;
-background: green;
+background: #e3d5f2;
 }
 .assign img {
 width: 200px;
